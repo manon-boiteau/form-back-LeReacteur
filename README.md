@@ -10,7 +10,7 @@
 
 To code the backend (and also the frontend ➡️ look at the repo!) of a contact form.
 
-![Contact form](assets/img/contact-form.png)
+![Contact form](img/contact-form.png)
 
 ## Languages
 

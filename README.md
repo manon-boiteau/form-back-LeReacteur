@@ -1,6 +1,6 @@
 # CONTACT FORM 💌
 
-🌤 April 2021  
+⛅️ April 2021  
 ⚙️ Backend  
 ✨ Frontend - check the frontend [repo](https://github.com/manon-boiteau/form-front-LeReacteur)
 
